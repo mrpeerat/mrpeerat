@@ -2,7 +2,7 @@
 I'm currently studing PhD (5 years program) at VISTEC <br>
 My research field is Natural Language Processing and Information Retrieval <br>
 
-You can follow me <br>
+You can follow me on<br>
 <img src="https://img.icons8.com/fluent/16/000000/linkedin.png"/> Linkedin : https://www.linkedin.com/in/peerat-limkonchotiwat/ <br>
 <img src="https://img.icons8.com/ios-filled/16/000000/medium-new.png"/> Medium : https://medium.com/@pingloaf <br>
 
