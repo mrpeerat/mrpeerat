@@ -1,6 +1,6 @@
 ### Hi my name is ping 
-I'm currently studing PhD at VISTEC <br>
-My research is Natural Language Processing and Information Retrieval <br>
+I'm currently studing PhD (5 years program) at VISTEC <br>
+My research field is Natural Language Processing and Information Retrieval <br>
 
 You can follow me <br>
 <img src="https://img.icons8.com/fluent/16/000000/linkedin.png"/> Linkedin : https://www.linkedin.com/in/peerat-limkonchotiwat/ <br>
