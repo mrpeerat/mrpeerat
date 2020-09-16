@@ -3,8 +3,8 @@ I'm currently studing PhD at VISTEC <br>
 My research is Natural Language Processing and Information Retrieval <br><br>
 
 You can follow me <br>
-• <img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/> Linkedin : https://www.linkedin.com/in/peerat-limkonchotiwat/ <br>
-• <img src="https://img.icons8.com/ios-filled/32/000000/medium-new.png"/> Medium : https://medium.com/@pingloaf <br><br>
+<img src="https://img.icons8.com/fluent/16/000000/linkedin.png"/> Linkedin : https://www.linkedin.com/in/peerat-limkonchotiwat/ <br>
+<img src="https://img.icons8.com/ios-filled/16/000000/medium-new.png"/> Medium : https://medium.com/@pingloaf <br><br>
 
 My Publication <br>
 • Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble (EMNLP 2020) <br>
