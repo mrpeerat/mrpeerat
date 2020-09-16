@@ -1,9 +1,15 @@
 ### Hi my name is ping 
 I'm currently studing PhD at VISTEC <br>
-My research is Natural Language Processing and Information Retrieval <br>
+My research is Natural Language Processing and Information Retrieval <br><br>
+
+You can follow me 
+• <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> Linkedin : https://www.linkedin.com/in/peerat-limkonchotiwat/ <br>
+• <img src="https://img.icons8.com/ios-filled/64/000000/medium-new.png"/> Medium : https://medium.com/@pingloaf <br><br>
+
 My Publication <br>
 • Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble (EMNLP 2020) <br>
 
+<br>
 
 <!--
 **mrpeerat/mrpeerat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
