@@ -1,10 +1,8 @@
-### Hi there 👋
-
 ### Hi my name is ping 
-I'm currently studing PhD at VISTEC
-My research is Natural Language Processing and Information Retrieval
-My Publication
-• Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble (EMNLP 2020)
+I'm currently studing PhD at VISTEC <br>
+My research is Natural Language Processing and Information Retrieval <br>
+My Publication <br>
+• Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble (EMNLP 2020) <br>
 
 
 <!--
