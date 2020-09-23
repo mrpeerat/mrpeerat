@@ -9,7 +9,7 @@ You can follow me on<br>
 My resume : <a href="https://www.canva.com/design/DAD_PhIrk_s/dOK7uyn37C3xwEvvX-CMow/view?utm_content=DAD_PhIrk_s&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">HERE</a> <br>
 
 Publication <br>
-• Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble (EMNLP 2020) <br>
+- Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble (EMNLP 2020) 
 
 <br>
 
