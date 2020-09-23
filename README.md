@@ -11,7 +11,8 @@ My resume : <a href="https://www.canva.com/design/DAD_PhIrk_s/dOK7uyn37C3xwEvvX-
 Publication
 - Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble (EMNLP 2020) <b>Peerat Limkonchotiwat</b>, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong
 
-
+My Research Intership/School Experience 
+- Southeast Asia Machine Learning  School (SEA MLS) 2019 Universitas Indonesia, Depok, Greater Jakarta, Indonesia.
 <!--
 **mrpeerat/mrpeerat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
