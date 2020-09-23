@@ -6,6 +6,8 @@ You can follow me on<br>
 <img src="https://img.icons8.com/fluent/16/000000/linkedin.png"/> Linkedin : https://www.linkedin.com/in/peerat-limkonchotiwat/ <br>
 <img src="https://img.icons8.com/ios-filled/16/000000/medium-new.png"/> Medium : https://medium.com/@pingloaf <br>
 
+My resume : <a href="https://www.canva.com/design/DAD_PhIrk_s/dOK7uyn37C3xwEvvX-CMow/view?utm_content=DAD_PhIrk_s&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">HERE</a> <br>
+
 Publication <br>
 • Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble (EMNLP 2020) <br>
 
