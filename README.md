@@ -1,6 +1,7 @@
 ### Hi my name is ping 
-I'm currently studing PhD (5 years program) at VISTEC, Scalable Data Systems (SCADS) Lab - Natural Language Processing and Understanding (NLPU) Lab and I'm working with Assoc. Prof. Dr. Sarana Nutanong<br>
-My research field is Natural Language Processing and Information Retrieval<br>
+- I'm currently studing PhD (5 years program) at VISTEC, Scalable Data Systems (SCADS) Lab - Natural Language Processing and Understanding (NLPU) Lab 
+- I'm working with Assoc. Prof. Dr. Sarana Nutanong and <a href="https://airesearch.in.th/">AIResearch Team</a><br>
+- My research field is Natural Language Processing (Word Segmentation, NER, Machine Translation) and Information Retrieval (Search, Word Embedding)<br>
 
 You can follow me on<br>
 - <img src="https://img.icons8.com/fluent/16/000000/linkedin.png"/> Linkedin : https://www.linkedin.com/in/peerat-limkonchotiwat/
