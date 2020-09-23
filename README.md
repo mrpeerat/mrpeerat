@@ -6,7 +6,7 @@
 You can follow me on<br>
 - <img src="https://img.icons8.com/fluent/16/000000/linkedin.png"/> Linkedin : https://www.linkedin.com/in/peerat-limkonchotiwat/
 - <img src="https://img.icons8.com/ios-filled/16/000000/medium-new.png"/> Medium : https://medium.com/@pingloaf (Machine Learning, NLP, Research Paper)
-- 
+- <img src="https://img.icons8.com/wired/16/000000/email.png"/> E-mail : peerat.limkonchotiwat@gmail.com
 
 My resume : <a href="https://www.canva.com/design/DAD_PhIrk_s/dOK7uyn37C3xwEvvX-CMow/view?utm_content=DAD_PhIrk_s&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">HERE</a> <br>
 
