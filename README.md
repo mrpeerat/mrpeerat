@@ -11,8 +11,8 @@
 ### My resume : <a href="https://www.canva.com/design/DAD_PhIrk_s/dOK7uyn37C3xwEvvX-CMow/view?utm_content=DAD_PhIrk_s&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">HERE</a>
 
 ### Publication
-- <a href="https://www.aclweb.org/anthology/2020.emnlp-main.315/">Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble</a> (EMNLP 2020) <u>Peerat Limkonchotiwat</u>, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong
-- <a href="#">Handling Cross- and Out-of-Domain Samples in Thai Word Segmentation</a> (ACL 2020 - Findings) <u>Peerat Limkonchotiwat</u>, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong
+- <a href="https://www.aclweb.org/anthology/2020.emnlp-main.315/">Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble</a> (EMNLP 2020) ***Peerat Limkonchotiwat***, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong
+- <a href="#">Handling Cross- and Out-of-Domain Samples in Thai Word Segmentation</a> (ACL 2020 - Findings) ***Peerat Limkonchotiwat***, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong
 
 ### My Research Intership/School Experience 
 - Southeast Asia Machine Learning  School (SEA MLS) 2019 Universitas Indonesia, Depok, Greater Jakarta, Indonesia.
