@@ -11,9 +11,9 @@
 ### My resume : <a href="https://www.canva.com/design/DAD_PhIrk_s/dOK7uyn37C3xwEvvX-CMow/view?utm_content=DAD_PhIrk_s&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">HERE</a>
 
 ### Publication
-- <a href="https://www.aclweb.org/anthology/2020.emnlp-main.315/">Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble</a> (EMNLP 2020) ***Peerat Limkonchotiwat***, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong
-- <a href="https://aclanthology.org/2021.findings-acl.86/">Handling Cross- and Out-of-Domain Samples in Thai Word Segmentation</a> (ACL 2020 - Findings) ***Peerat Limkonchotiwat***, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong
-- <a href="">Robust fragment-based framework for cross-lingual sentence retrieval</a> (EMNLP 2021 Findings) Nattapol Trijakwanich, ***Peerat Limkonchotiwat***, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong
+- <a href="https://www.aclweb.org/anthology/2020.emnlp-main.315/">Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble</a> (EMNLP'20) ***Peerat Limkonchotiwat***, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong
+- <a href="https://aclanthology.org/2021.findings-acl.86/">Handling Cross- and Out-of-Domain Samples in Thai Word Segmentation</a> (ACL'20 - Findings) ***Peerat Limkonchotiwat***, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong
+- <a href="">Robust fragment-based framework for cross-lingual sentence retrieval</a> (EMNLP-21 - Findings) Nattapol Trijakwanich, ***Peerat Limkonchotiwat***, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong
 
 <!--
 **mrpeerat/mrpeerat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
