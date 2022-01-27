@@ -8,8 +8,6 @@
 - <img src="https://img.icons8.com/ios-filled/16/000000/medium-new.png"/> Medium : https://mrpeerat.medium.com/ (Machine Learning, NLP, Research Paper)
 - <img src="https://img.icons8.com/wired/16/000000/email.png"/> E-mail : peerat.limkonchotiwat@gmail.com
 
-### My resume : <a href="https://www.canva.com/design/DAD_PhIrk_s/dOK7uyn37C3xwEvvX-CMow/view?utm_content=DAD_PhIrk_s&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">HERE</a>
-
 ### Publications
 - <a href="https://www.aclweb.org/anthology/2020.emnlp-main.315/">Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble</a> (EMNLP'20) ***Peerat Limkonchotiwat***, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong
 - <a href="https://aclanthology.org/2021.findings-acl.86/">Handling Cross- and Out-of-Domain Samples in Thai Word Segmentation</a> (ACL'20 - Findings) ***Peerat Limkonchotiwat***, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong
