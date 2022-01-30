@@ -2,6 +2,7 @@
 - I'm currently studying Ph.D. (5 years program) at VISTEC, Scalable Data Systems (SCADS) Lab - Natural Language Processing and Understanding (NLPU) Lab.
 - I'm working with Assoc. Prof. Dr. Sarana Nutanong and <a href="https://airesearch.in.th/">AIResearch Team</a>.<br>
 - My research field is Natural Language Processing (word segmentation, NER, machine translation) and Information Retrieval (search and word/sentence representation).
+- Resume: [HERE](https://github.com/mrpeerat/mrpeerat/files/7965350/Peerat_Resume.pdf)
 
 ### You can follow me on
 - <img src="https://img.icons8.com/fluent/16/000000/linkedin.png"/> Linkedin : https://www.linkedin.com/in/peerat-limkonchotiwat/
