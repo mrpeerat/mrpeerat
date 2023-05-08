@@ -6,17 +6,8 @@
 
 ### You can follow me on
 - Personal website: https://mrpeerat.github.io/
+- Google Scholar: https://scholar.google.com/citations?user=T-rvPZ4AAAAJ
 - <img src="https://img.icons8.com/fluent/16/000000/linkedin.png"/> Linkedin : https://www.linkedin.com/in/peerat-limkonchotiwat/
 - <img src="https://img.icons8.com/ios-filled/16/000000/medium-new.png"/> Medium : https://mrpeerat.medium.com/ (Machine Learning, NLP, Research Paper)
 - <img src="https://img.icons8.com/wired/16/000000/email.png"/> E-mail : peerat.limkonchotiwat@gmail.com
-
-### Publications
-- <a href="https://www.aclweb.org/anthology/2020.emnlp-main.315/">Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble</a> (EMNLP'20) ***Peerat Limkonchotiwat***, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong. Github: [LINK](https://github.com/mrpeerat/SEFR_CUT)
-- <a href="https://aclanthology.org/2021.findings-acl.86/">Handling Cross- and Out-of-Domain Samples in Thai Word Segmentation</a> (ACL'21 - Findings) ***Peerat Limkonchotiwat***, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong. Github: [LINK](https://github.com/mrpeerat/OSKut)
-- <a href="https://aclanthology.org/2021.findings-emnlp.80/">Robust fragment-based framework for cross-lingual sentence retrieval</a> (EMNLP'21 - Findings) Nattapol Trijakwanich, ***Peerat Limkonchotiwat***, Raheem Sawar, Wannaphong Phatthiyaphaibun, Ekapol Chuangsuwanich, Sarana Nutanong. Github: [LINK](https://github.com/elmiaon/robust_fragment_representation)
-- <a href="">Thai Nested Named Entity Recognition Corpus</a> (ACL'22 - Findings) Weerayut Buaphet, Can Udomcharoenchaikit, ***Peerat Limkonchotiwat***, Attapol Rutherford, Sarana Nutanong. Github: [LINK](https://github.com/vistec-AI/Thai-NNER)
-- <a href="https://openreview.net/forum?id=y42xxJ_xx8">CL-ReLKT: Cross-lingual Language Knowledge Transfer for Multilingual Retrieval Question Answering</a> (NAACL'22 - Findings) ***Peerat Limkonchotiwat***,  Wuttikorn Ponwitayarat, Can Udomcharoenchaikit, Ekapol Chuangsuwanich, Sarana Nutanong. Github: [LINK](https://github.com/mrpeerat/CL-ReLKT)
-
-<!--
-**mrpeerat/mrpeerat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
